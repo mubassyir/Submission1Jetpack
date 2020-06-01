@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Submission1Jetpack</string>
+
+    <string name="tab_movie">MOVIE</string>
+    <string name="tab_tv_show">TV SHOW</string>
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="langue_setting">Langue Setting</string>
+    <string name="tambah_keranjang">Added to cart</string>
+    <string name="tambah_favorite">Added to favorite</string>
+    <string name="overview">Overview</string>
+    <string name="favorite">Favorite</string>
+    <string name="buy">Buy</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="rating">Rating   :</string>
+    <string name="release">Release :</string>
+    <string name="list_image_description">MovieCover</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid animi deleniti dolore doloremque, dolores eius enim eos excepturi in incidunt ipsum optio quam quia quibusdam quo ratione ut velit veritatis.</string>
+</resources>
